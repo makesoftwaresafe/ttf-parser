@@ -1,3 +1,4 @@
+project: mjkoo-fas/ttf-parser
 target: font-info
 advanced_triage: false
 tasks:
