@@ -1,0 +1,7 @@
+advanced_triage: false
+tasks:
+  - name: exploitability_factors
+  - name: regression_testing
+  - name: behavior_testing
+cmds:
+  - cmd: /fuzz/target/x86_64-unknown-linux-gnu/release/font-info
