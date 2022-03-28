@@ -1,3 +1,4 @@
+target: font-info
 advanced_triage: false
 tasks:
   - name: exploitability_factors
